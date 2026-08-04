@@ -4,7 +4,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey.svg)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange.svg)
 
-Este é um sistema de gerenciamento de biblioteca desenvolvido como Projeto Integrador para o curso de [Nome do Seu Curso] na [Nome da Sua Faculdade]. 
+Este é um sistema de gerenciamento de biblioteca desenvolvido como Projeto Integrador para o curso Ciência de Dados na Anhanguera. 
 
 O objetivo do projeto é aplicar conceitos de Programação Orientada a Objetos (POO), arquitetura de software (MVC) e manipulação de banco de dados relacional usando apenas bibliotecas nativas do Python.
 
